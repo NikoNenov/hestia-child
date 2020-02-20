@@ -2,6 +2,14 @@
 * "hestia-child" is a child theme to "hestia" 
 * display blog by categories 
 
+## Category configuration
+* "hestia-child/functions.php"
+
+```
+git status
+git add
+git commit
+```
 
 ## Useful plugins
 * [Customizer Export/Import](https://wordpress.org/plugins/customizer-export-import/)
