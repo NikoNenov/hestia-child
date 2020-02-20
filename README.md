@@ -1,6 +1,6 @@
 # hestia-child
 * "hestia-child" is a child theme to "hestia" 
-* display blog by categories 
+* to display blog posts (on the homepage) by category
 
 ## Category configuration
 * "hestia-child/functions.php"
