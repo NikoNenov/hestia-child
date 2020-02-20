@@ -42,3 +42,4 @@ The Customizer Export/Import plugin allows you to export or import your WordPres
 
 ## Thanks
 * [Sonia Rieder - Wordpress](https://www.webtimiser.de/wordpress-child-theme-erstellen/)
+* [The Adventures of ThemeIsle](https://docs.themeisle.com/article/808-how-to-display-posts-by-categories-in-hestia)
